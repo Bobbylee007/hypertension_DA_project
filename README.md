@@ -1,11 +1,12 @@
 # **`Hypertension Risk Factor Analysis`**
+
+## Overview
 Hypertension Risk Factor Analysis is a data analytics project focused on exploring factors associated with hypertension. The project uses a structured health dataset to examine patterns and relationships between hypertension status and selected demographic, lifestyle, and health-related variables.
 
 The project follows a complete data analytics workflow, including data cleaning and preprocessing, exploratory data analysis (EDA), data visualization, and interpretation of findings. Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook were used for data analysis and visualization, while Power BI was used to create an interactive dashboard.
 
 The main objective of this project is to identify meaningful patterns and potential risk factors associated with hypertension and communicate the findings through clear visualizations, an interactive Power BI dashboard, and a final project presentation.
 
-## Overview
 
 ## List of included file
 - #### Dataset directory include hyertension_Dataset file
